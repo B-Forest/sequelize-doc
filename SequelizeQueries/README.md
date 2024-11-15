@@ -55,4 +55,10 @@ Pour exécuter le script `database.js`, utilisez la commande suivante :
 node database.js
 ```
 
-## Aide
+## Sources
+
+On a utilisé les sources suivantes pour réaliser ce projet :
+
+- https://sequelize.org/master/manual/getting-started.html
+- https://sequelize.org/docs/v6/core-concepts/raw-queries/
+    
